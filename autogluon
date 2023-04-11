@@ -1,1 +1,1 @@
-from autogluon/autogluon:0.7.0-cuda11.7-jupyter-ubuntu20.04-py3.9
+from docker.io/autogluon/autogluon:0.7.0-cuda11.7-jupyter-ubuntu20.04-py3.9
